@@ -1,85 +1,7 @@
 {
-    "actualizado": "2026-11-21 23:01:14",
-    "cantidad": 18,
+    "actualizado": "2026-11-22 10:48:49",
+    "cantidad": 6,
     "archivos": [
-        {
-            "nombre": "202611131139_C3071_P4.zip",
-            "ruta": "fe/202611131139_C3071_P4.zip",
-            "tamano": 1117,
-            "url": "https://raw.githubusercontent.com/JUANCITOMASTERS/feCarfelsa/main/fe/202611131139_C3071_P4.zip"
-        },
-        {
-            "nombre": "202611132300_C3071_P4.zip",
-            "ruta": "fe/202611132300_C3071_P4.zip",
-            "tamano": 1087,
-            "url": "https://raw.githubusercontent.com/JUANCITOMASTERS/feCarfelsa/main/fe/202611132300_C3071_P4.zip"
-        },
-        {
-            "nombre": "202611141214_C3071_P4.zip",
-            "ruta": "fe/202611141214_C3071_P4.zip",
-            "tamano": 1119,
-            "url": "https://raw.githubusercontent.com/JUANCITOMASTERS/feCarfelsa/main/fe/202611141214_C3071_P4.zip"
-        },
-        {
-            "nombre": "202611142301_C3071_P4.zip",
-            "ruta": "fe/202611142301_C3071_P4.zip",
-            "tamano": 1115,
-            "url": "https://raw.githubusercontent.com/JUANCITOMASTERS/feCarfelsa/main/fe/202611142301_C3071_P4.zip"
-        },
-        {
-            "nombre": "202611151118_C3071_P4.zip",
-            "ruta": "fe/202611151118_C3071_P4.zip",
-            "tamano": 1113,
-            "url": "https://raw.githubusercontent.com/JUANCITOMASTERS/feCarfelsa/main/fe/202611151118_C3071_P4.zip"
-        },
-        {
-            "nombre": "202611152300_C3071_P4.zip",
-            "ruta": "fe/202611152300_C3071_P4.zip",
-            "tamano": 1115,
-            "url": "https://raw.githubusercontent.com/JUANCITOMASTERS/feCarfelsa/main/fe/202611152300_C3071_P4.zip"
-        },
-        {
-            "nombre": "202611161033_C3071_P4.zip",
-            "ruta": "fe/202611161033_C3071_P4.zip",
-            "tamano": 1119,
-            "url": "https://raw.githubusercontent.com/JUANCITOMASTERS/feCarfelsa/main/fe/202611161033_C3071_P4.zip"
-        },
-        {
-            "nombre": "202611162300_C3071_P4.zip",
-            "ruta": "fe/202611162300_C3071_P4.zip",
-            "tamano": 1118,
-            "url": "https://raw.githubusercontent.com/JUANCITOMASTERS/feCarfelsa/main/fe/202611162300_C3071_P4.zip"
-        },
-        {
-            "nombre": "202611171211_C3071_P4.zip",
-            "ruta": "fe/202611171211_C3071_P4.zip",
-            "tamano": 1116,
-            "url": "https://raw.githubusercontent.com/JUANCITOMASTERS/feCarfelsa/main/fe/202611171211_C3071_P4.zip"
-        },
-        {
-            "nombre": "202611172300_C3071_P4.zip",
-            "ruta": "fe/202611172300_C3071_P4.zip",
-            "tamano": 1116,
-            "url": "https://raw.githubusercontent.com/JUANCITOMASTERS/feCarfelsa/main/fe/202611172300_C3071_P4.zip"
-        },
-        {
-            "nombre": "202611181022_C3071_P4.zip",
-            "ruta": "fe/202611181022_C3071_P4.zip",
-            "tamano": 1085,
-            "url": "https://raw.githubusercontent.com/JUANCITOMASTERS/feCarfelsa/main/fe/202611181022_C3071_P4.zip"
-        },
-        {
-            "nombre": "202611182301_C3071_P4.zip",
-            "ruta": "fe/202611182301_C3071_P4.zip",
-            "tamano": 1119,
-            "url": "https://raw.githubusercontent.com/JUANCITOMASTERS/feCarfelsa/main/fe/202611182301_C3071_P4.zip"
-        },
-        {
-            "nombre": "202611190836_C3071_P4.zip",
-            "ruta": "fe/202611190836_C3071_P4.zip",
-            "tamano": 1088,
-            "url": "https://raw.githubusercontent.com/JUANCITOMASTERS/feCarfelsa/main/fe/202611190836_C3071_P4.zip"
-        },
         {
             "nombre": "202611192300_C3071_P4.zip",
             "ruta": "fe/202611192300_C3071_P4.zip",
@@ -109,6 +31,12 @@
             "ruta": "fe/202611212301_C3071_P4.zip",
             "tamano": 1116,
             "url": "https://raw.githubusercontent.com/JUANCITOMASTERS/feCarfelsa/main/fe/202611212301_C3071_P4.zip"
+        },
+        {
+            "nombre": "202611221048_C3071_P4.zip",
+            "ruta": "fe/202611221048_C3071_P4.zip",
+            "tamano": 1119,
+            "url": "https://raw.githubusercontent.com/JUANCITOMASTERS/feCarfelsa/main/fe/202611221048_C3071_P4.zip"
         }
     ]
 }
