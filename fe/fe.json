@@ -1,6 +1,6 @@
 {
-    "actualizado": "2026-11-25 23:00:35",
-    "cantidad": 13,
+    "actualizado": "2026-11-26 09:21:58",
+    "cantidad": 14,
     "archivos": [
         {
             "nombre": "202611192300_C3071_P4.zip",
@@ -79,6 +79,12 @@
             "ruta": "fe/202611252300_C3071_P4.zip",
             "tamano": 1115,
             "url": "https://raw.githubusercontent.com/JUANCITOMASTERS/feCarfelsa/main/fe/202611252300_C3071_P4.zip"
+        },
+        {
+            "nombre": "202611260921_C3071_P4.zip",
+            "ruta": "fe/202611260921_C3071_P4.zip",
+            "tamano": 1087,
+            "url": "https://raw.githubusercontent.com/JUANCITOMASTERS/feCarfelsa/main/fe/202611260921_C3071_P4.zip"
         }
     ]
 }
